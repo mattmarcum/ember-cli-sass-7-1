@@ -1,25 +1,3 @@
 # Ember-cli-sass-7-1
 
-This README outlines the details of collaborating on this Ember addon.
-
-## Installation
-
-* `git clone` this repository
-* `npm install`
-* `bower install`
-
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+This is a simple addon to setup the sass 7 in 1 pattern as described here: [sass-guidlin.es](http://sass-guidelin.es/).  It also includes [normalize-scss](https://github.com/JohnAlbin/normalize-scss).
